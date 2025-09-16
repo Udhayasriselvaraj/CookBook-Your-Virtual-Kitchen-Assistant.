@@ -1,4 +1,4 @@
-#cookbook: virtual assistant 
+#cookbook-your-virtual-kitchen-assistant
 
 for open demo link 
 
